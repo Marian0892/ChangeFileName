@@ -1,1 +1,1 @@
-Change all the images on a folder on a pic + random number +jpg with Node.js
+Change all the images name on a folder to  'pic' + random number + '.jpg' with Node.js
